@@ -16,8 +16,8 @@ function genererContenuMail()
 ${messageSaisi}
 
 ——————————————————————————————————————————————————
-Carrefour Euralille
-Lille 59000`
+Auchan
+Hirson 02500`
 
     return contenuMail
 }
