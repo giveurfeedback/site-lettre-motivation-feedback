@@ -17,7 +17,7 @@ ${messageSaisi}
 
 ——————————————————————————————————————————————————
 Auchan
-FachesèThumesnil 59155`
+Faches-Thumesnil 59155`
 
     return contenuMail
 }
